@@ -4,5 +4,4 @@ node_modules/
 .cache
 .github
 yarn.lock
-public/
 tailwind.css
