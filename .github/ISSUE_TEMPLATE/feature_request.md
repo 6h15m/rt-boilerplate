@@ -1,9 +1,9 @@
 ---
-name: Feature request
+name: 🙌 Feature request
 about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+title: 'feat: '
+labels: 'enhancement'
+assignees: '6h15m'
 
 ---
 
